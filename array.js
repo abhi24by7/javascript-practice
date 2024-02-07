@@ -9,3 +9,7 @@ const myArr = [1,2,3,4,5]
 const myArr2=new Array(1,2,9,4,5);
 
 console.log(myArr2[2]);
+
+myArr.push(4) 
+myArr.pop()
+console.log(myArr[4]);
